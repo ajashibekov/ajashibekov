@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**ajashibekov/ajashibekov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # A bit of history
 I've started coding at an early age, when all of the tech industry started booming. My first encounter with programming was an extracurricular course in my middle school that 
 I signed up for in grade 5. And that course was... C++ - not too beginner-friendly! Unfortunately, the course was cancelled after some time, but I continued my coding journey 
@@ -21,6 +18,5 @@ Languages:
 
 I'm currently learning more on full-stack development (NodeJS, React, Redux), planning to explore more of mobile development
 
-💬 Ask me about ...
-📫 How to reach me: ...
--->
+💬 Ask me about anything, really! 
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/abay-j-71a402121/)
